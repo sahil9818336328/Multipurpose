@@ -1,7 +1,6 @@
 # My First Website 
 
 ### Responsive website built using Css
- #### Heavily focused on Css . 
 
  ### View my deployed app at :- https://sahil9818336328.github.io/MyFirstWebsite/
 
